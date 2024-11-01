@@ -1,5 +1,8 @@
 # Homework 3
 
+## Team Members
+- Darby Waters
+- Hayden Barefoot
 
 ## Quick Start
 ### Local Test Setup
